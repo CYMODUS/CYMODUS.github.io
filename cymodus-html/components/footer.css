@@ -1,0 +1,168 @@
+.footer-footer7 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.footer-max-width {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer-content {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer-logo1 {
+  gap: 24px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.footer-link1 {
+  display: contents;
+}
+ 
+.footer-logo2 {
+  height: 2rem;
+  text-decoration: none;
+}
+ 
+.footer-links {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer-link2 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-credits {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer-row {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.footer-container {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer-text1 {
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-footer-links {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer-text2 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  font-family: "AvenirLTPro-Light";
+  text-decoration: none;
+}
+ 
+.footer-text3 {
+  font-family: "AvenirLTPro-Light";
+  text-decoration: none;
+}
+ 
+.footer-fragment1 {
+  display: contents;
+}
+ 
+.footer-text4 {
+  display: inline-block;
+}
+ 
+.footer-fragment2 {
+  display: contents;
+}
+ 
+.footer-text5 {
+  display: inline-block;
+}
+ 
+.footer-fragment3 {
+  display: contents;
+}
+ 
+.footer-text6 {
+  display: inline-block;
+}
+ 
+@media(max-width: 1600px) {
+  .footer-logo2 {
+    width: auto;
+    height: var(--dl-layout-size-medium);
+    max-width: auto;
+    min-width: auto;
+  }
+  .footer-link2 {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .footer-text1 {
+    font-size: 16px;
+    font-family: AvenirLTPro-Light;
+  }
+  .footer-text2 {
+    font-size: 16px;
+    font-family: AvenirLTPro-Light;
+  }
+  .footer-text3 {
+    font-size: 16px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .footer-row {
+    gap: var(--dl-layout-space-oneandhalfunits);
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .footer-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .footer-links {
+    flex-direction: column;
+  }
+  .footer-footer-links {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,209 @@
+.legal-stuff-faq7 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.legal-stuff-max-width {
+  gap: var(--dl-layout-space-fiveunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.legal-stuff-text10 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.legal-stuff-list-item11 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.legal-stuff-faq1-question1 {
+  font-size: 24px;
+  font-style: normal;
+  font-family: "SegoeUIThis-Bold";
+  font-weight: 600;
+}
+ 
+.legal-stuff-faq1-answer1 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.legal-stuff-list-item12 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.legal-stuff-faq1-question2 {
+  font-size: 24px;
+  font-style: normal;
+  font-family: "SegoeUIThis-Bold";
+  font-weight: 600;
+}
+ 
+.legal-stuff-faq1-answer2 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.legal-stuff-content2 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.legal-stuff-text11 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 24px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.legal-stuff-text12 {
+  text-align: center;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.legal-stuff-fragment1 {
+  display: contents;
+}
+ 
+.legal-stuff-text13 {
+  display: inline-block;
+}
+ 
+.legal-stuff-fragment2 {
+  display: contents;
+}
+ 
+.legal-stuff-text14 {
+  display: inline-block;
+}
+ 
+.legal-stuff-fragment3 {
+  display: contents;
+}
+ 
+.legal-stuff-text25 {
+  display: inline-block;
+}
+ 
+.legal-stuff-fragment4 {
+  display: contents;
+}
+ 
+.legal-stuff-text33 {
+  display: inline-block;
+}
+ 
+.legal-stuff-fragment5 {
+  display: contents;
+}
+ 
+.legal-stuff-text34 {
+  display: inline-block;
+}
+ 
+.legal-stuff-fragment6 {
+  display: contents;
+}
+ 
+.legal-stuff-text35 {
+  display: inline-block;
+}
+ 
+.legal-stuff-fragment7 {
+  display: contents;
+}
+ 
+.legal-stuff-text36 {
+  display: inline-block;
+}
+ 
+
+ 
+@media(max-width: 1600px) {
+  .legal-stuff-text10 {
+    font-size: 36px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .legal-stuff-faq1-question1 {
+    font-size: 24px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .legal-stuff-faq1-answer1 {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .legal-stuff-faq1-question2 {
+    font-size: 24px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .legal-stuff-faq1-answer2 {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .legal-stuff-text11 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 36px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .legal-stuff-text12 {
+    font-size: 24px;
+    font-family: AvenirLTPro-Light;
+  }
+  .legal-stuff-text13 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .legal-stuff-text14 {
+    font-family: AvenirLTPro-Light;
+  }
+  .legal-stuff-text25 {
+    font-family: AvenirLTPro-Light;
+  }
+  .legal-stuff-text33 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 36px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .legal-stuff-text34 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .legal-stuff-text35 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .legal-stuff-text36 {
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .legal-stuff-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+}
+ 
+@media(max-width: 767px) {
+  .legal-stuff-list1 {
+    gap: var(--dl-layout-space-twounits);
+  }
+  .legal-stuff-list2 {
+    gap: var(--dl-layout-space-twounits);
+  }
+}

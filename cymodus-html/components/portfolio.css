@@ -1,0 +1,242 @@
+.portfolio-header19 {
+  display: flex;
+  justify-content: center;
+}
+ 
+.portfolio-max-width {
+  align-self: center;
+  align-items: flex-start;
+}
+ 
+.portfolio-video {
+  width: 550px;
+  height: auto;
+}
+ 
+.portfolio-column {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.portfolio-content1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.portfolio-text10 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 32px;
+  text-align: left;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.portfolio-text11 {
+  text-align: left;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.portfolio-actions1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.portfolio-button1 {
+  text-decoration: none;
+}
+ 
+.portfolio-text12 {
+  fill: var(--dl-color-theme-neutral-light);
+  color: var(--dl-color-theme-neutral-light);
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.portfolio-button2 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  border-color: var(--dl-color-theme-primary1);
+  text-decoration: none;
+  background-color: var(--dl-color-theme-primary1);
+}
+ 
+.portfolio-text13 {
+  fill: var(--dl-color-theme-neutral-light);
+  color: var(--dl-color-theme-neutral-light);
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.portfolio-content2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.portfolio-actions2 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.portfolio-button3 {
+  text-decoration: none;
+}
+ 
+.portfolio-text14 {
+  fill: var(--dl-color-theme-neutral-light);
+  color: var(--dl-color-theme-neutral-light);
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.portfolio-button4 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  border-color: var(--dl-color-theme-primary1);
+  text-decoration: none;
+  background-color: var(--dl-color-theme-primary1);
+}
+ 
+.portfolio-text15 {
+  fill: var(--dl-color-theme-neutral-light);
+  color: var(--dl-color-theme-neutral-light);
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.portfolio-fragment1 {
+  display: contents;
+}
+ 
+.portfolio-text16 {
+  display: inline-block;
+}
+ 
+.portfolio-fragment2 {
+  display: contents;
+}
+ 
+.portfolio-text17 {
+  display: inline-block;
+}
+ 
+.portfolio-fragment3 {
+  display: contents;
+}
+ 
+.portfolio-text18 {
+  display: inline-block;
+}
+ 
+.portfolio-fragment4 {
+  display: contents;
+}
+ 
+.portfolio-text19 {
+  display: inline-block;
+}
+ 
+.portfolio-fragment5 {
+  display: contents;
+}
+ 
+.portfolio-text20 {
+  display: inline-block;
+}
+ 
+.portfolio-fragment6 {
+  display: contents;
+}
+ 
+.portfolio-text21 {
+  display: inline-block;
+}
+ 
+@media(max-width: 1600px) {
+  .portfolio-text10 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .portfolio-text11 {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .portfolio-text12 {
+    font-size: 16px;
+    font-family: AvenirLTPro-Light;
+  }
+  .portfolio-text13 {
+    font-family: AvenirLTPro-Light;
+  }
+  .portfolio-text14 {
+    font-size: 16px;
+    font-family: AvenirLTPro-Light;
+  }
+  .portfolio-text15 {
+    font-family: AvenirLTPro-Light;
+  }
+  .portfolio-text18 {
+    fill: var(--dl-color-theme-neutral-light);
+    color: var(--dl-color-theme-neutral-light);
+    font-family: AvenirLTPro-Light;
+  }
+  .portfolio-text20 {
+    fill: var(--dl-color-theme-neutral-light);
+    color: var(--dl-color-theme-neutral-light);
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .portfolio-max-width {
+    flex-direction: column;
+  }
+  .portfolio-video {
+    width: 100%;
+  }
+  .portfolio-text10 {
+    text-align: center;
+  }
+  .portfolio-text11 {
+    text-align: center;
+  }
+  .portfolio-actions1 {
+    align-self: center;
+    justify-content: flex-start;
+  }
+  .portfolio-actions2 {
+    align-self: center;
+    justify-content: flex-start;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .portfolio-actions1 {
+    width: 100%;
+    flex-direction: column;
+  }
+  .portfolio-button1 {
+    width: 100%;
+  }
+  .portfolio-button2 {
+    width: 100%;
+  }
+  .portfolio-actions2 {
+    width: 100%;
+    flex-direction: column;
+  }
+  .portfolio-button3 {
+    width: 100%;
+  }
+  .portfolio-button4 {
+    width: 100%;
+  }
+}
