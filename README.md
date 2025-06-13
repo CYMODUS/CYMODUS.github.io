@@ -2,7 +2,7 @@
 
 **CYMODUS** — Consultancy Services
 
-This repository hosts the source code and content for [CYMODUS.com](https://cymodus.com), the official website of CYMODUS.
+This repository hosts the source code and content for [CYMODUS.com](https://cymodus.com), the official website of CYMODUS, a project management and cybersecurity consultancy group.
 
 ## Description
 
