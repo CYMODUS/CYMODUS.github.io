@@ -1,0 +1,145 @@
+.about-layout216 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.about-max-width {
+  gap: var(--dl-layout-space-threeunits);
+}
+ 
+.about-section-title {
+  align-items: flex-start;
+}
+ 
+.about-text10 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 32px;
+}
+ 
+.about-text11 {
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.about-list {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.about-list-item1 {
+  align-items: flex-start;
+}
+ 
+.about-text12 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 24px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.about-text13 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.about-list-item2 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  align-items: flex-start;
+}
+ 
+.about-actions {
+  align-self: flex-start;
+}
+ 
+.about-fragment1 {
+  display: contents;
+}
+ 
+.about-text14 {
+  color: var(--dl-color-theme-primary1);
+  display: inline-block;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.about-fragment2 {
+  display: contents;
+}
+ 
+.about-text15 {
+  display: inline-block;
+}
+ 
+.about-fragment3 {
+  display: contents;
+}
+ 
+.about-text16 {
+  display: inline-block;
+}
+ 
+.about-fragment4 {
+  display: contents;
+}
+ 
+.about-text17 {
+  display: inline-block;
+}
+ 
+@media(max-width: 1600px) {
+  .about-text10 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 36px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .about-text11 {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .about-text12 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .about-text13 {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .about-layout216 {
+    width: 100%;
+  }
+  .about-max-width {
+    flex-direction: column;
+  }
+  .about-image1 {
+    width: 100%;
+  }
+  .about-content {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .about-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .about-list {
+    flex-direction: column;
+  }
+  .about-actions {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: var(--dl-layout-space-unit);
+  }
+}
