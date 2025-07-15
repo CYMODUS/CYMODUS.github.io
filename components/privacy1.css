@@ -1,0 +1,895 @@
+.privacycomponent-wrapper {
+  display: contents;
+}
+ 
+.privacycomponent-container {
+  display: flex;
+  position: relative;
+}
+ 
+.privacycomponent-faq1-answer {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.privacy1-fragment2 {
+  display: contents;
+}
+ 
+.privacy1-text238 {
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.privacy1-fragment3 {
+  display: contents;
+}
+ 
+.privacy1-text239 {
+  display: inline-block;
+}
+ 
+.privacy1-fragment4 {
+  display: contents;
+}
+ 
+.privacy1-text240 {
+  display: inline-block;
+}
+ 
+.privacy1-fragment5 {
+  display: contents;
+}
+ 
+.privacy1-text241 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.privacy1-fragment1 {
+  display: contents;
+}
+ 
+.privacy1-text101 {
+  display: inline-block;
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.privacy1-text102 {
+  font-weight: 700;
+}
+ 
+.privacy1-text108 {
+  font-weight: 700;
+}
+ 
+.privacy1-text113 {
+  font-weight: 700;
+}
+ 
+.privacy1-text118 {
+  font-weight: 700;
+}
+ 
+.privacy1-text141 {
+  font-weight: 700;
+}
+ 
+.privacy1-text158 {
+  font-weight: 700;
+}
+ 
+.privacy1-text166 {
+  font-weight: 700;
+}
+ 
+.privacy1-text181 {
+  font-weight: 700;
+}
+ 
+.privacy1-text186 {
+  font-weight: 700;
+}
+ 
+.privacy1-text199 {
+  font-weight: 700;
+}
+ 
+.privacy1-text204 {
+  font-weight: 700;
+}
+ 
+.privacy1-text209 {
+  font-weight: 700;
+}
+ 
+.privacy1-text214 {
+  font-weight: 700;
+}
+ 
+.privacy1-text219 {
+  font-weight: 700;
+}
+ 
+@media(max-width: 1600px) {
+  .privacycomponent-faq1-answer {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy1-text238 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text239 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text240 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text241 {
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy1-text101 {
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .privacy1-text238 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text239 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text240 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text241 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy1-text102 {
+    font-weight: 700;
+  }
+  .privacy1-text103 {
+    font-weight: 700;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .privacy1-text102 {
+    font-weight: 700;
+  }
+  .privacy1-text103 {
+    font-weight: 700;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+}
+
+.privacy1faq7 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.privacy1-max-width {
+  gap: var(--dl-layout-space-fiveunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.privacy1-text100 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.privacy1-list-item1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.privacy1-faq1-question {
+  font-size: 28px;
+  font-style: normal;
+  font-family: "SegoeUIThis-Bold";
+  font-weight: 600;
+}
+ 
+.privacy1-fragment1 {
+  display: contents;
+}
+ 
+.privacy1-text101 {
+  display: inline-block;
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.privacy1-text102 {
+  font-weight: 700;
+}
+ 
+.privacy1-text108 {
+  font-weight: 700;
+}
+ 
+.privacy1-text113 {
+  font-weight: 700;
+}
+ 
+.privacy1-text118 {
+  font-weight: 700;
+}
+ 
+.privacy1-text141 {
+  font-weight: 700;
+}
+ 
+.privacy1-text158 {
+  font-weight: 700;
+}
+ 
+.privacy1-text166 {
+  font-weight: 700;
+}
+ 
+.privacy1-text181 {
+  font-weight: 700;
+}
+ 
+.privacy1-text186 {
+  font-weight: 700;
+}
+ 
+.privacy1-text199 {
+  font-weight: 700;
+}
+ 
+.privacy1-text204 {
+  font-weight: 700;
+}
+ 
+.privacy1-text209 {
+  font-weight: 700;
+}
+ 
+.privacy1-text214 {
+  font-weight: 700;
+}
+ 
+.privacy1-text219 {
+  font-weight: 700;
+}
+ 
+.privacy1-content2 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.privacy1-text236 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.privacy1-text237 {
+  text-align: center;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.privacy1-fragment2 {
+  display: contents;
+}
+ 
+.privacy1-text238 {
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.privacy1-fragment3 {
+  display: contents;
+}
+ 
+.privacy1-text239 {
+  display: inline-block;
+}
+ 
+.privacy1-fragment4 {
+  display: contents;
+}
+ 
+.privacy1-text240 {
+  display: inline-block;
+}
+ 
+.privacy1-fragment5 {
+  display: contents;
+}
+ 
+.privacy1-text241 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+
+ 
+@media(max-width: 1600px) {
+  .privacy1-text100 {
+    font-size: 36px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-faq1-question {
+    font-size: 24px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text101 {
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+  .privacy1-text236 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text237 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy1-text238 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text239 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text240 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text241 {
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .privacy1-text100 {
+    font-size: 32px;
+  }
+  .privacy1-faq1-question {
+    font-size: 28px;
+  }
+  .privacy1-text102 {
+    font-weight: 700;
+  }
+  .privacy1-text103 {
+    font-weight: 700;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+  .privacy1-text238 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text239 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text240 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text241 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .privacy1-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+}
+ 
+@media(max-width: 767px) {
+  .privacy1-list {
+    gap: var(--dl-layout-space-twounits);
+  }
+}
+ 
+@media(max-width: 479px) {
+  .privacy1-text102 {
+    font-weight: 700;
+  }
+  .privacy1-text103 {
+    font-weight: 700;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+}

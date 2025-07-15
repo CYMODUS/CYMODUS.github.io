@@ -1,0 +1,105 @@
+.termscomponent-container {
+  display: flex;
+  position: relative;
+}
+ 
+.termscomponent-faq1-answer {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.termscomponent-fragment {
+  display: contents;
+}
+ 
+.termscomponent-text100 {
+  display: inline-block;
+}
+ 
+@media(max-width: 1600px) {
+  .termscomponent-faq1-answer {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .termscomponent-text100 {
+    font-family: AvenirLTPro-Light;
+  }
+  .termscomponent-text104 {
+    font-weight: 700;
+  }
+  .termscomponent-text105 {
+    font-weight: 700;
+  }
+  .termscomponent-text111 {
+    font-weight: 700;
+  }
+  .termscomponent-text112 {
+    font-weight: 700;
+  }
+  .termscomponent-text124 {
+    font-weight: 700;
+  }
+  .termscomponent-text125 {
+    font-weight: 700;
+  }
+  .termscomponent-text131 {
+    font-weight: 700;
+  }
+  .termscomponent-text132 {
+    font-weight: 700;
+  }
+  .termscomponent-text138 {
+    font-weight: 700;
+  }
+  .termscomponent-text139 {
+    font-weight: 700;
+  }
+  .termscomponent-text145 {
+    font-weight: 700;
+  }
+  .termscomponent-text146 {
+    font-weight: 700;
+  }
+  .termscomponent-text152 {
+    font-weight: 700;
+  }
+  .termscomponent-text153 {
+    font-weight: 700;
+  }
+  .termscomponent-text159 {
+    font-weight: 700;
+  }
+  .termscomponent-text160 {
+    font-weight: 700;
+  }
+  .termscomponent-text168 {
+    font-weight: 700;
+  }
+  .termscomponent-text169 {
+    font-weight: 700;
+  }
+  .termscomponent-text177 {
+    font-weight: 700;
+  }
+  .termscomponent-text178 {
+    font-weight: 700;
+  }
+  .termscomponent-text184 {
+    font-weight: 700;
+  }
+  .termscomponent-text185 {
+    font-weight: 700;
+  }
+  .termscomponent-text191 {
+    font-weight: 700;
+  }
+  .termscomponent-text192 {
+    font-weight: 700;
+  }
+  .termscomponent-text200 {
+    font-weight: 700;
+  }
+  .termscomponent-text201 {
+    font-weight: 700;
+  }
+}

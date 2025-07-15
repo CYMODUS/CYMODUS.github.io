@@ -1,0 +1,135 @@
+.feature-max-width {
+  gap: var(--dl-layout-space-fourunits);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+ 
+.feature-container2 {
+  align-self: center;
+  align-items: flex-start;
+}
+ 
+.feature-text10 {
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.feature-text11 {
+  height: 273px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.feature-container3 {
+  max-width: 50%;
+}
+ 
+.feature-image {
+  width: 271px;
+  height: 251px;
+}
+ 
+.feature-fragment1 {
+  display: contents;
+}
+ 
+.feature-text12 {
+  color: var(--dl-color-theme-primary1);
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.feature-fragment2 {
+  display: contents;
+}
+ 
+.feature-text13 {
+  display: inline-block;
+}
+ 
+.feature-text15 {
+  font-weight: 700;
+}
+ 
+.feature-text17 {
+  font-weight: 700;
+}
+ 
+.feature-text19 {
+  font-weight: 700;
+}
+ 
+.feature-link {
+  text-decoration: underline;
+}
+ 
+@media(max-width: 1600px) {
+  .feature-text11 {
+    height: 252px;
+  }
+  .feature-text12 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .feature-text13 {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .feature-text15 {
+    font-weight: 700;
+  }
+  .feature-text17 {
+    font-weight: 700;
+  }
+  .feature-text19 {
+    font-weight: 700;
+  }
+  .feature-link {
+    text-decoration: underline;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .feature-text11 {
+    height: 322px;
+    margin-bottom: 0px;
+  }
+  .feature-text12 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .feature-max-width {
+    gap: var(--dl-layout-space-twounits);
+    flex-direction: column;
+  }
+  .feature-text11 {
+    height: 266px;
+  }
+  .feature-container3 {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .feature-text11 {
+    height: 318px;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .feature-text11 {
+    height: 443px;
+  }
+  .feature-image {
+    width: 100%;
+  }
+}

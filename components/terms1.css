@@ -1,0 +1,937 @@
+.termscomponent-wrapper {
+  display: contents;
+}
+ 
+.termscomponent-container {
+  display: flex;
+  position: relative;
+}
+ 
+.termscomponent-faq1-answer {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.terms1-fragment2 {
+  display: contents;
+}
+ 
+.terms1-text215 {
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-fragment3 {
+  display: contents;
+}
+ 
+.terms1-text216 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-fragment4 {
+  display: contents;
+}
+ 
+.terms1-text217 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-fragment5 {
+  display: contents;
+}
+ 
+.terms1-text218 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.terms1-fragment1 {
+  display: contents;
+}
+ 
+.terms1-text101 {
+  display: inline-block;
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.terms1-text102 {
+  font-weight: 700;
+}
+ 
+.terms1-text105 {
+  font-weight: 700;
+}
+ 
+.terms1-text112 {
+  font-weight: 700;
+}
+ 
+.terms1-text125 {
+  font-weight: 700;
+}
+ 
+.terms1-text132 {
+  font-weight: 700;
+}
+ 
+.terms1-text139 {
+  font-weight: 700;
+}
+ 
+.terms1-text146 {
+  font-weight: 700;
+}
+ 
+.terms1-text153 {
+  font-weight: 700;
+}
+ 
+.terms1-text160 {
+  font-weight: 700;
+}
+ 
+.terms1-text169 {
+  font-weight: 700;
+}
+ 
+.terms1-text178 {
+  font-weight: 700;
+}
+ 
+.terms1-text185 {
+  font-weight: 700;
+}
+ 
+.terms1-text192 {
+  font-weight: 700;
+}
+ 
+.terms1-text201 {
+  font-weight: 700;
+}
+ 
+@media(max-width: 1600px) {
+  .termscomponent-faq1-answer {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms1-text215 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text216 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text217 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text218 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms1-text101 {
+    font-family: AvenirLTPro-Light;
+  }
+  .terms1-text102 {
+    font-weight: 700;
+  }
+  .terms1-text103 {
+    font-weight: 700;
+  }
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .terms1-text215 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text216 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text217 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text218 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .terms1-text216 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text217 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text218 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .terms1-text217 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text218 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+}
+
+.terms1faq7 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.terms1-max-width {
+  gap: var(--dl-layout-space-fiveunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.terms1-text100 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-list-item1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.terms1-faq1-question {
+  font-size: 24px;
+  font-style: normal;
+  font-family: "SegoeUIThis-Bold";
+  font-weight: 600;
+}
+ 
+.terms1-fragment1 {
+  display: contents;
+}
+ 
+.terms1-text101 {
+  display: inline-block;
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.terms1-text102 {
+  font-weight: 700;
+}
+ 
+.terms1-text105 {
+  font-weight: 700;
+}
+ 
+.terms1-text112 {
+  font-weight: 700;
+}
+ 
+.terms1-text125 {
+  font-weight: 700;
+}
+ 
+.terms1-text132 {
+  font-weight: 700;
+}
+ 
+.terms1-text139 {
+  font-weight: 700;
+}
+ 
+.terms1-text146 {
+  font-weight: 700;
+}
+ 
+.terms1-text153 {
+  font-weight: 700;
+}
+ 
+.terms1-text160 {
+  font-weight: 700;
+}
+ 
+.terms1-text169 {
+  font-weight: 700;
+}
+ 
+.terms1-text178 {
+  font-weight: 700;
+}
+ 
+.terms1-text185 {
+  font-weight: 700;
+}
+ 
+.terms1-text192 {
+  font-weight: 700;
+}
+ 
+.terms1-text201 {
+  font-weight: 700;
+}
+ 
+.terms1-content2 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.terms1-text213 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 24px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-text214 {
+  text-align: center;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.terms1-fragment2 {
+  display: contents;
+}
+ 
+.terms1-text215 {
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-fragment3 {
+  display: contents;
+}
+ 
+.terms1-text216 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-fragment4 {
+  display: contents;
+}
+ 
+.terms1-text217 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-fragment5 {
+  display: contents;
+}
+ 
+.terms1-text218 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+
+ 
+@media(max-width: 1600px) {
+  .terms1-text100 {
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-faq1-question {
+    font-size: 24px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text101 {
+    font-family: AvenirLTPro-Light;
+  }
+  .terms1-text102 {
+    font-weight: 700;
+  }
+  .terms1-text103 {
+    font-weight: 700;
+  }
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+  .terms1-text213 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 36px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text214 {
+    font-size: 24px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms1-text215 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text216 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text217 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text218 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+  .terms1-text215 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text216 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text217 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text218 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .terms1-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .terms1-text216 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text217 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text218 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .terms1-list {
+    gap: var(--dl-layout-space-twounits);
+  }
+}
+ 
+@media(max-width: 479px) {
+  .terms1-faq1-question {
+    font-size: 28px;
+  }
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+  .terms1-text217 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text218 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}

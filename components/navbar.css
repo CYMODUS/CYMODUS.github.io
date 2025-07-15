@@ -1,0 +1,138 @@
+.navbar-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+ 
+.navbar-navbar-interactive {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-layout-space-twounits);
+  padding-left: var(--dl-layout-space-threeunits);
+  padding-right: var(--dl-layout-space-threeunits);
+  padding-bottom: var(--dl-layout-space-twounits);
+  justify-content: space-between;
+}
+ 
+.navbar-desktop-menu {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+ 
+.navbar-links {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.navbar-link1 {
+  font-size: 18px;
+  font-family: "SegoeUIThis-Bold";
+  text-decoration: none;
+}
+ 
+.navbar-link2 {
+  font-size: 18px;
+  font-family: "SegoeUIThis-Bold";
+  text-decoration: none;
+}
+ 
+.navbar-link5 {
+  font-size: 18px;
+  font-family: "SegoeUIThis-Bold";
+  text-decoration: none;
+}
+ 
+.navbar-fragment1 {
+  display: contents;
+}
+ 
+.navbar-text1 {
+  display: inline-block;
+}
+ 
+.navbar-fragment2 {
+  display: contents;
+}
+ 
+.navbar-text2 {
+  display: inline-block;
+}
+ 
+.navbar-fragment3 {
+  display: contents;
+}
+ 
+.navbar-text3 {
+  display: inline-block;
+}
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 1600px) {
+  .navbar-link1 {
+    font-size: 18px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .navbar-link2 {
+    font-size: 18px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .navbar-link5 {
+    font-size: 18px;
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .navbar-link1 {
+    font-size: 18px;
+  }
+  .navbar-link2 {
+    font-size: 18px;
+  }
+  .navbar-link5 {
+    font-size: 18px;
+  }
+  .navbar-text1 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .navbar-text2 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .navbar-text3 {
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .navbar-navbar-interactive {
+    padding-left: var(--dl-layout-space-twounits);
+    padding-right: var(--dl-layout-space-twounits);
+  }
+  .navbar-desktop-menu {
+    display: none;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .navbar-navbar-interactive {
+    width: 479px;
+    height: 120px;
+    padding-top: var(--dl-layout-space-halfunit);
+    padding-left: var(--dl-layout-space-halfunit);
+    padding-right: var(--dl-layout-space-halfunit);
+    padding-bottom: var(--dl-layout-space-halfunit);
+  }
+}

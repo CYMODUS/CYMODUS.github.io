@@ -1,0 +1,260 @@
+.stats-max-width {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.stats-container2 {
+  gap: var(--dl-layout-space-twounits);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.stats-title {
+  z-index: 100;
+  font-size: 32px;
+  text-align: center;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.stats-content {
+  z-index: 100;
+  font-size: 18px;
+  text-align: center;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.stats-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  z-index: 100;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+ 
+.stats-container4 {
+  flex: 1;
+  display: flex;
+  padding: var(--dl-layout-space-twounits);
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.stats-text10 {
+  font-size: 26px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.stats-text11 {
+  font-size: 16px;
+  text-align: center;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.stats-container5 {
+  flex: 1;
+  display: flex;
+  padding: var(--dl-layout-space-twounits);
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.stats-text12 {
+  font-size: 26px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.stats-text13 {
+  font-size: 16px;
+  text-align: center;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.stats-container6 {
+  flex: 1;
+  display: flex;
+  padding: var(--dl-layout-space-twounits);
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.stats-text14 {
+  font-size: 26px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.stats-text15 {
+  font-size: 16px;
+  text-align: center;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.stats-container7 {
+  flex: 1;
+  display: flex;
+  padding: var(--dl-layout-space-twounits);
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.stats-text16 {
+  font-size: 26px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.stats-text17 {
+  font-size: 16px;
+  text-align: center;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.stats-image {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+}
+ 
+.stats-fragment10 {
+  display: contents;
+}
+ 
+.stats-text18 {
+  display: inline-block;
+}
+ 
+.stats-fragment11 {
+  display: contents;
+}
+ 
+.stats-text19 {
+  display: inline-block;
+}
+ 
+.stats-fragment12 {
+  display: contents;
+}
+ 
+.stats-text20 {
+  display: inline-block;
+  font-size: 26px;
+}
+ 
+.stats-fragment13 {
+  display: contents;
+}
+ 
+.stats-text21 {
+  display: inline-block;
+}
+ 
+.stats-fragment14 {
+  display: contents;
+}
+ 
+.stats-text22 {
+  display: inline-block;
+}
+ 
+.stats-fragment15 {
+  display: contents;
+}
+ 
+.stats-text23 {
+  display: inline-block;
+}
+ 
+.stats-fragment16 {
+  display: contents;
+}
+ 
+.stats-text24 {
+  display: inline-block;
+}
+ 
+.stats-fragment17 {
+  display: contents;
+}
+ 
+.stats-text25 {
+  display: inline-block;
+}
+ 
+.stats-fragment18 {
+  display: contents;
+}
+ 
+.stats-text26 {
+  display: inline-block;
+}
+ 
+.stats-fragment19 {
+  display: contents;
+}
+ 
+.stats-text27 {
+  display: inline-block;
+}
+ 
+@media(max-width: 1600px) {
+  .stats-text18 {
+    font-family: AvenirLTPro-Light;
+  }
+  .stats-text19 {
+    font-family: AvenirLTPro-Light;
+  }
+  .stats-text20 {
+    font-size: 26px;
+    font-family: AvenirLTPro-Light;
+  }
+  .stats-text24 {
+    font-family: AvenirLTPro-Light;
+  }
+  .stats-text25 {
+    font-family: AvenirLTPro-Light;
+  }
+  .stats-text27 {
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .stats-title {
+    text-align: center;
+  }
+  .stats-container3 {
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+  }
+  .stats-container4 {
+    align-self: flex-start;
+  }
+  .stats-container5 {
+    align-self: flex-start;
+  }
+  .stats-container6 {
+    align-self: flex-start;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .stats-title {
+    align-self: center;
+    text-align: center;
+  }
+  .stats-container7 {
+    align-self: flex-start;
+  }
+}
