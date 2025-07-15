@@ -627,7 +627,6 @@
 .feature-container2 {
   align-self: center;
   align-items: flex-start;
-  margin-bottom: var(--dl-layout-space-sixunits);
 }
  
 .feature-text10 {
@@ -642,7 +641,6 @@
  
 .feature-container3 {
   max-width: 50%;
-  margin-bottom: var(--dl-layout-space-twounits);
 }
  
 .feature-image {
