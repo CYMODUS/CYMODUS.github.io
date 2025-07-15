@@ -213,6 +213,7 @@
   .thq-flex-column {
     padding: var(--dl-layout-space-unit);
     gap: var(--dl-layout-space-unit);
+    padding-bottom: var(--dl-layout-space-oneandhalfunits);
   }
   .thq-flex-row {
     gap: var(--dl-layout-space-unit);
