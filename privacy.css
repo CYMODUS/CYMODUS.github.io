@@ -1,0 +1,1465 @@
+.banner-wrapper {
+  display: contents;
+}
+ 
+.banner-container1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  background-color: var(--dl-color-theme-primary1);
+}
+ 
+.banner-max-width {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner-container2 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 479px) {
+  .banner-image {
+    width: 467px;
+    height: 475px;
+  }
+}
+
+.navbar-wrapper {
+  display: contents;
+}
+ 
+.navbar-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+ 
+.navbar-navbar-interactive {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-layout-space-twounits);
+  padding-left: var(--dl-layout-space-threeunits);
+  padding-right: var(--dl-layout-space-threeunits);
+  padding-bottom: var(--dl-layout-space-twounits);
+  justify-content: space-between;
+}
+ 
+.navbar-desktop-menu {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+ 
+.navbar-links {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.navbar-link1 {
+  font-size: 18px;
+  font-family: "SegoeUIThis-Bold";
+  text-decoration: none;
+}
+ 
+.navbar-link2 {
+  font-size: 18px;
+  font-family: "SegoeUIThis-Bold";
+  text-decoration: none;
+}
+ 
+.navbar-link5 {
+  font-size: 18px;
+  font-family: "SegoeUIThis-Bold";
+  text-decoration: none;
+}
+ 
+.privacy-fragment12 {
+  display: contents;
+}
+ 
+.privacy-text12 {
+  display: inline-block;
+}
+ 
+.privacy-fragment10 {
+  display: contents;
+}
+ 
+.privacy-text10 {
+  display: inline-block;
+}
+ 
+.privacy-fragment11 {
+  display: contents;
+}
+ 
+.privacy-text11 {
+  display: inline-block;
+}
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 1600px) {
+  .navbar-link1 {
+    font-size: 18px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .navbar-link2 {
+    font-size: 18px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .navbar-link5 {
+    font-size: 18px;
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .navbar-link1 {
+    font-size: 18px;
+  }
+  .navbar-link2 {
+    font-size: 18px;
+  }
+  .navbar-link5 {
+    font-size: 18px;
+  }
+  .privacy-text12 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text10 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text11 {
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .navbar-navbar-interactive {
+    padding-left: var(--dl-layout-space-twounits);
+    padding-right: var(--dl-layout-space-twounits);
+  }
+  .navbar-desktop-menu {
+    display: none;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .navbar-navbar-interactive {
+    width: 479px;
+    height: 120px;
+    padding-top: var(--dl-layout-space-halfunit);
+    padding-left: var(--dl-layout-space-halfunit);
+    padding-right: var(--dl-layout-space-halfunit);
+    padding-bottom: var(--dl-layout-space-halfunit);
+  }
+}
+
+.privacycomponent-wrapper {
+  display: contents;
+}
+ 
+.privacycomponent-container {
+  display: flex;
+  position: relative;
+}
+ 
+.privacycomponent-faq1-answer {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.privacy-fragment14 {
+  display: contents;
+}
+ 
+.privacy-text14 {
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.privacy-fragment16 {
+  display: contents;
+}
+ 
+.privacy-text16 {
+  display: inline-block;
+}
+ 
+.privacy1-fragment1 {
+  display: contents;
+}
+ 
+.privacy1-text101 {
+  display: inline-block;
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.privacy1-text102 {
+  font-weight: 700;
+}
+ 
+.privacy1-text108 {
+  font-weight: 700;
+}
+ 
+.privacy1-text113 {
+  font-weight: 700;
+}
+ 
+.privacy1-text118 {
+  font-weight: 700;
+}
+ 
+.privacy1-text141 {
+  font-weight: 700;
+}
+ 
+.privacy1-text158 {
+  font-weight: 700;
+}
+ 
+.privacy1-text166 {
+  font-weight: 700;
+}
+ 
+.privacy1-text181 {
+  font-weight: 700;
+}
+ 
+.privacy1-text186 {
+  font-weight: 700;
+}
+ 
+.privacy1-text199 {
+  font-weight: 700;
+}
+ 
+.privacy1-text204 {
+  font-weight: 700;
+}
+ 
+.privacy1-text209 {
+  font-weight: 700;
+}
+ 
+.privacy1-text214 {
+  font-weight: 700;
+}
+ 
+.privacy1-text219 {
+  font-weight: 700;
+}
+ 
+@media(max-width: 1600px) {
+  .privacycomponent-faq1-answer {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy-text14 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text101 {
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .privacy-text14 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text16 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text102 {
+    font-weight: 700;
+  }
+  .privacy1-text103 {
+    font-weight: 700;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .privacy1-text102 {
+    font-weight: 700;
+  }
+  .privacy1-text103 {
+    font-weight: 700;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+}
+
+.privacy1-wrapper {
+  display: contents;
+}
+ 
+.privacy1faq7 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.privacy1-max-width {
+  gap: var(--dl-layout-space-fiveunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.privacy1-text100 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.privacy1-list-item1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.privacy1-faq1-question {
+  font-size: 28px;
+  font-style: normal;
+  font-family: "SegoeUIThis-Bold";
+  font-weight: 600;
+}
+ 
+.privacy1-fragment1 {
+  display: contents;
+}
+ 
+.privacy1-text101 {
+  display: inline-block;
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.privacy1-text102 {
+  font-weight: 700;
+}
+ 
+.privacy1-text108 {
+  font-weight: 700;
+}
+ 
+.privacy1-text113 {
+  font-weight: 700;
+}
+ 
+.privacy1-text118 {
+  font-weight: 700;
+}
+ 
+.privacy1-text141 {
+  font-weight: 700;
+}
+ 
+.privacy1-text158 {
+  font-weight: 700;
+}
+ 
+.privacy1-text166 {
+  font-weight: 700;
+}
+ 
+.privacy1-text181 {
+  font-weight: 700;
+}
+ 
+.privacy1-text186 {
+  font-weight: 700;
+}
+ 
+.privacy1-text199 {
+  font-weight: 700;
+}
+ 
+.privacy1-text204 {
+  font-weight: 700;
+}
+ 
+.privacy1-text209 {
+  font-weight: 700;
+}
+ 
+.privacy1-text214 {
+  font-weight: 700;
+}
+ 
+.privacy1-text219 {
+  font-weight: 700;
+}
+ 
+.privacy1-content2 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.privacy1-text236 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.privacy1-text237 {
+  text-align: center;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.privacy-fragment14 {
+  display: contents;
+}
+ 
+.privacy-text14 {
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.privacy-fragment15 {
+  display: contents;
+}
+ 
+.privacy-text15 {
+  display: inline-block;
+}
+ 
+.privacy-fragment16 {
+  display: contents;
+}
+ 
+.privacy-text16 {
+  display: inline-block;
+}
+ 
+.privacy-fragment13 {
+  display: contents;
+}
+ 
+.privacy-text13 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+
+ 
+@media(max-width: 1600px) {
+  .privacy1-text100 {
+    font-size: 36px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-faq1-question {
+    font-size: 24px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text101 {
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+  .privacy1-text236 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy1-text237 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy-text14 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text15 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text13 {
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .privacy1-text100 {
+    font-size: 32px;
+  }
+  .privacy1-faq1-question {
+    font-size: 28px;
+  }
+  .privacy1-text102 {
+    font-weight: 700;
+  }
+  .privacy1-text103 {
+    font-weight: 700;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+  .privacy-text14 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text15 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text16 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text13 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .privacy1-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+}
+ 
+@media(max-width: 767px) {
+  .privacy1-list {
+    gap: var(--dl-layout-space-twounits);
+  }
+}
+ 
+@media(max-width: 479px) {
+  .privacy1-text102 {
+    font-weight: 700;
+  }
+  .privacy1-text103 {
+    font-weight: 700;
+  }
+  .privacy1-text108 {
+    font-weight: 700;
+  }
+  .privacy1-text109 {
+    font-weight: 700;
+  }
+  .privacy1-text113 {
+    font-weight: 700;
+  }
+  .privacy1-text114 {
+    font-weight: 700;
+  }
+  .privacy1-text118 {
+    font-weight: 700;
+  }
+  .privacy1-text119 {
+    font-weight: 700;
+  }
+  .privacy1-text141 {
+    font-weight: 700;
+  }
+  .privacy1-text142 {
+    font-weight: 700;
+  }
+  .privacy1-text158 {
+    font-weight: 700;
+  }
+  .privacy1-text159 {
+    font-weight: 700;
+  }
+  .privacy1-text166 {
+    font-weight: 700;
+  }
+  .privacy1-text167 {
+    font-weight: 700;
+  }
+  .privacy1-text181 {
+    font-weight: 700;
+  }
+  .privacy1-text182 {
+    font-weight: 700;
+  }
+  .privacy1-text186 {
+    font-weight: 700;
+  }
+  .privacy1-text187 {
+    font-weight: 700;
+  }
+  .privacy1-text199 {
+    font-weight: 700;
+  }
+  .privacy1-text200 {
+    font-weight: 700;
+  }
+  .privacy1-text204 {
+    font-weight: 700;
+  }
+  .privacy1-text205 {
+    font-weight: 700;
+  }
+  .privacy1-text209 {
+    font-weight: 700;
+  }
+  .privacy1-text210 {
+    font-weight: 700;
+  }
+  .privacy1-text214 {
+    font-weight: 700;
+  }
+  .privacy1-text215 {
+    font-weight: 700;
+  }
+  .privacy1-text219 {
+    font-weight: 700;
+  }
+  .privacy1-text220 {
+    font-weight: 700;
+  }
+}
+
+.footer-wrapper {
+  display: contents;
+}
+ 
+.footer-footer7 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.footer-navlink {
+  display: contents;
+}
+ 
+.footer-image {
+  width: 200px;
+  object-fit: cover;
+  text-decoration: none;
+}
+ 
+.footer-max-width {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer-content {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer-links {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer-link1 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link2 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link3 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link4 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link5 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link6 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link7 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-credits {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer-row {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.footer-container {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer-text10 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-footer-links {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer-text11 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+  text-decoration: none;
+}
+ 
+.footer-text12 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+  text-decoration: none;
+}
+ 
+.privacy-fragment20 {
+  display: contents;
+}
+ 
+.privacy-text20 {
+  display: inline-block;
+}
+ 
+.privacy-fragment17 {
+  display: contents;
+}
+ 
+.privacy-text17 {
+  display: inline-block;
+}
+ 
+.privacy-fragment18 {
+  display: contents;
+}
+ 
+.privacy-text18 {
+  display: inline-block;
+}
+ 
+.privacy-fragment22 {
+  display: contents;
+}
+ 
+.privacy-text22 {
+  display: inline-block;
+}
+ 
+.privacy-fragment21 {
+  display: contents;
+}
+ 
+.privacy-text21 {
+  display: inline-block;
+}
+ 
+.privacy-fragment24 {
+  display: contents;
+}
+ 
+.privacy-text24 {
+  display: inline-block;
+}
+ 
+.privacy-fragment25 {
+  display: contents;
+}
+ 
+.privacy-text25 {
+  display: inline-block;
+}
+ 
+.privacy-fragment23 {
+  display: contents;
+}
+ 
+.privacy-text23 {
+  display: inline-block;
+}
+ 
+.privacy-fragment19 {
+  display: contents;
+}
+ 
+.privacy-text19 {
+  display: inline-block;
+}
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 767px) {
+  .footer-row {
+    gap: var(--dl-layout-space-oneandhalfunits);
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .footer-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .footer-links {
+    flex-direction: column;
+  }
+  .footer-footer-links {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+.privacy-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+ 
+.privacy-fragment10 {
+  display: contents;
+}
+ 
+.privacy-text10 {
+  display: inline-block;
+}
+ 
+.privacy-fragment11 {
+  display: contents;
+}
+ 
+.privacy-text11 {
+  display: inline-block;
+}
+ 
+.privacy-fragment12 {
+  display: contents;
+}
+ 
+.privacy-text12 {
+  display: inline-block;
+}
+ 
+.privacy-fragment13 {
+  display: contents;
+}
+ 
+.privacy-text13 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.privacy-fragment14 {
+  display: contents;
+}
+ 
+.privacy-text14 {
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.privacy-fragment15 {
+  display: contents;
+}
+ 
+.privacy-text15 {
+  display: inline-block;
+}
+ 
+.privacy-fragment16 {
+  display: contents;
+}
+ 
+.privacy-text16 {
+  display: inline-block;
+}
+ 
+.privacy-fragment17 {
+  display: contents;
+}
+ 
+.privacy-text17 {
+  display: inline-block;
+}
+ 
+.privacy-fragment18 {
+  display: contents;
+}
+ 
+.privacy-text18 {
+  display: inline-block;
+}
+ 
+.privacy-fragment19 {
+  display: contents;
+}
+ 
+.privacy-text19 {
+  display: inline-block;
+}
+ 
+.privacy-fragment20 {
+  display: contents;
+}
+ 
+.privacy-text20 {
+  display: inline-block;
+}
+ 
+.privacy-fragment21 {
+  display: contents;
+}
+ 
+.privacy-text21 {
+  display: inline-block;
+}
+ 
+.privacy-fragment22 {
+  display: contents;
+}
+ 
+.privacy-text22 {
+  display: inline-block;
+}
+ 
+.privacy-fragment23 {
+  display: contents;
+}
+ 
+.privacy-text23 {
+  display: inline-block;
+}
+ 
+.privacy-fragment24 {
+  display: contents;
+}
+ 
+.privacy-text24 {
+  display: inline-block;
+}
+ 
+.privacy-fragment25 {
+  display: contents;
+}
+ 
+.privacy-text25 {
+  display: inline-block;
+}
+ 
+@media(max-width: 1600px) {
+  .privacy-text13 {
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy-text14 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text15 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .privacy-text10 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text11 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text12 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text13 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .privacy-text14 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text15 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .privacy-text16 {
+    font-family: SegoeUIThis-Bold;
+  }
+}

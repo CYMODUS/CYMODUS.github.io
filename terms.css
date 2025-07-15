@@ -1,0 +1,1520 @@
+.banner-wrapper {
+  display: contents;
+}
+ 
+.banner-container1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  background-color: var(--dl-color-theme-primary1);
+}
+ 
+.banner-max-width {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner-container2 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 479px) {
+  .banner-image {
+    width: 467px;
+    height: 475px;
+  }
+}
+
+.navbar-wrapper {
+  display: contents;
+}
+ 
+.navbar-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+ 
+.navbar-navbar-interactive {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-layout-space-twounits);
+  padding-left: var(--dl-layout-space-threeunits);
+  padding-right: var(--dl-layout-space-threeunits);
+  padding-bottom: var(--dl-layout-space-twounits);
+  justify-content: space-between;
+}
+ 
+.navbar-desktop-menu {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+ 
+.navbar-links {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.navbar-link1 {
+  font-size: 18px;
+  font-family: "SegoeUIThis-Bold";
+  text-decoration: none;
+}
+ 
+.navbar-link2 {
+  font-size: 18px;
+  font-family: "SegoeUIThis-Bold";
+  text-decoration: none;
+}
+ 
+.navbar-link5 {
+  font-size: 18px;
+  font-family: "SegoeUIThis-Bold";
+  text-decoration: none;
+}
+ 
+.terms-fragment12 {
+  display: contents;
+}
+ 
+.terms-text12 {
+  display: inline-block;
+}
+ 
+.terms-fragment10 {
+  display: contents;
+}
+ 
+.terms-text10 {
+  display: inline-block;
+}
+ 
+.terms-fragment11 {
+  display: contents;
+}
+ 
+.terms-text11 {
+  display: inline-block;
+}
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 1600px) {
+  .navbar-link1 {
+    font-size: 18px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .navbar-link2 {
+    font-size: 18px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .navbar-link5 {
+    font-size: 18px;
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .navbar-link1 {
+    font-size: 18px;
+  }
+  .navbar-link2 {
+    font-size: 18px;
+  }
+  .navbar-link5 {
+    font-size: 18px;
+  }
+  .terms-text12 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text10 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text11 {
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .navbar-navbar-interactive {
+    padding-left: var(--dl-layout-space-twounits);
+    padding-right: var(--dl-layout-space-twounits);
+  }
+  .navbar-desktop-menu {
+    display: none;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .navbar-navbar-interactive {
+    width: 479px;
+    height: 120px;
+    padding-top: var(--dl-layout-space-halfunit);
+    padding-left: var(--dl-layout-space-halfunit);
+    padding-right: var(--dl-layout-space-halfunit);
+    padding-bottom: var(--dl-layout-space-halfunit);
+  }
+}
+
+.termscomponent-wrapper {
+  display: contents;
+}
+ 
+.termscomponent-container {
+  display: flex;
+  position: relative;
+}
+ 
+.termscomponent-faq1-answer {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.terms-fragment14 {
+  display: contents;
+}
+ 
+.terms-text14 {
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms-fragment16 {
+  display: contents;
+}
+ 
+.terms-text16 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-fragment1 {
+  display: contents;
+}
+ 
+.terms1-text101 {
+  display: inline-block;
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.terms1-text102 {
+  font-weight: 700;
+}
+ 
+.terms1-text105 {
+  font-weight: 700;
+}
+ 
+.terms1-text112 {
+  font-weight: 700;
+}
+ 
+.terms1-text125 {
+  font-weight: 700;
+}
+ 
+.terms1-text132 {
+  font-weight: 700;
+}
+ 
+.terms1-text139 {
+  font-weight: 700;
+}
+ 
+.terms1-text146 {
+  font-weight: 700;
+}
+ 
+.terms1-text153 {
+  font-weight: 700;
+}
+ 
+.terms1-text160 {
+  font-weight: 700;
+}
+ 
+.terms1-text169 {
+  font-weight: 700;
+}
+ 
+.terms1-text178 {
+  font-weight: 700;
+}
+ 
+.terms1-text185 {
+  font-weight: 700;
+}
+ 
+.terms1-text192 {
+  font-weight: 700;
+}
+ 
+.terms1-text201 {
+  font-weight: 700;
+}
+ 
+@media(max-width: 1600px) {
+  .termscomponent-faq1-answer {
+    font-size: 18px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms-text14 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text101 {
+    font-family: AvenirLTPro-Light;
+  }
+  .terms1-text102 {
+    font-weight: 700;
+  }
+  .terms1-text103 {
+    font-weight: 700;
+  }
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .terms-text14 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .terms-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+}
+
+.terms1-wrapper {
+  display: contents;
+}
+ 
+.terms1faq7 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.terms1-max-width {
+  gap: var(--dl-layout-space-fiveunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.terms1-text100 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-list-item1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.terms1-faq1-question {
+  font-size: 24px;
+  font-style: normal;
+  font-family: "SegoeUIThis-Bold";
+  font-weight: 600;
+}
+ 
+.terms1-fragment1 {
+  display: contents;
+}
+ 
+.terms1-text101 {
+  display: inline-block;
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.terms1-text102 {
+  font-weight: 700;
+}
+ 
+.terms1-text105 {
+  font-weight: 700;
+}
+ 
+.terms1-text112 {
+  font-weight: 700;
+}
+ 
+.terms1-text125 {
+  font-weight: 700;
+}
+ 
+.terms1-text132 {
+  font-weight: 700;
+}
+ 
+.terms1-text139 {
+  font-weight: 700;
+}
+ 
+.terms1-text146 {
+  font-weight: 700;
+}
+ 
+.terms1-text153 {
+  font-weight: 700;
+}
+ 
+.terms1-text160 {
+  font-weight: 700;
+}
+ 
+.terms1-text169 {
+  font-weight: 700;
+}
+ 
+.terms1-text178 {
+  font-weight: 700;
+}
+ 
+.terms1-text185 {
+  font-weight: 700;
+}
+ 
+.terms1-text192 {
+  font-weight: 700;
+}
+ 
+.terms1-text201 {
+  font-weight: 700;
+}
+ 
+.terms1-content2 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.terms1-text213 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  font-size: 24px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms1-text214 {
+  text-align: center;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.terms-fragment14 {
+  display: contents;
+}
+ 
+.terms-text14 {
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms-fragment16 {
+  display: contents;
+}
+ 
+.terms-text16 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms-fragment15 {
+  display: contents;
+}
+ 
+.terms-text15 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms-fragment13 {
+  display: contents;
+}
+ 
+.terms-text13 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+
+ 
+@media(max-width: 1600px) {
+  .terms1-text100 {
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-faq1-question {
+    font-size: 24px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text101 {
+    font-family: AvenirLTPro-Light;
+  }
+  .terms1-text102 {
+    font-weight: 700;
+  }
+  .terms1-text103 {
+    font-weight: 700;
+  }
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+  .terms1-text213 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 36px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms1-text214 {
+    font-size: 24px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms-text14 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text15 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text13 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+  .terms-text14 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text15 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text13 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .terms1-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .terms-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text15 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text13 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .terms1-list {
+    gap: var(--dl-layout-space-twounits);
+  }
+}
+ 
+@media(max-width: 479px) {
+  .terms1-faq1-question {
+    font-size: 28px;
+  }
+  .terms1-text105 {
+    font-weight: 700;
+  }
+  .terms1-text106 {
+    font-weight: 700;
+  }
+  .terms1-text112 {
+    font-weight: 700;
+  }
+  .terms1-text113 {
+    font-weight: 700;
+  }
+  .terms1-text125 {
+    font-weight: 700;
+  }
+  .terms1-text126 {
+    font-weight: 700;
+  }
+  .terms1-text132 {
+    font-weight: 700;
+  }
+  .terms1-text133 {
+    font-weight: 700;
+  }
+  .terms1-text139 {
+    font-weight: 700;
+  }
+  .terms1-text140 {
+    font-weight: 700;
+  }
+  .terms1-text146 {
+    font-weight: 700;
+  }
+  .terms1-text147 {
+    font-weight: 700;
+  }
+  .terms1-text153 {
+    font-weight: 700;
+  }
+  .terms1-text154 {
+    font-weight: 700;
+  }
+  .terms1-text160 {
+    font-weight: 700;
+  }
+  .terms1-text161 {
+    font-weight: 700;
+  }
+  .terms1-text169 {
+    font-weight: 700;
+  }
+  .terms1-text170 {
+    font-weight: 700;
+  }
+  .terms1-text178 {
+    font-weight: 700;
+  }
+  .terms1-text179 {
+    font-weight: 700;
+  }
+  .terms1-text185 {
+    font-weight: 700;
+  }
+  .terms1-text186 {
+    font-weight: 700;
+  }
+  .terms1-text192 {
+    font-weight: 700;
+  }
+  .terms1-text193 {
+    font-weight: 700;
+  }
+  .terms1-text201 {
+    font-weight: 700;
+  }
+  .terms1-text202 {
+    font-weight: 700;
+  }
+  .terms-text15 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text13 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+}
+
+.footer-wrapper {
+  display: contents;
+}
+ 
+.footer-footer7 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.footer-navlink {
+  display: contents;
+}
+ 
+.footer-image {
+  width: 200px;
+  object-fit: cover;
+  text-decoration: none;
+}
+ 
+.footer-max-width {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer-content {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer-links {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer-link1 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link2 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link3 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link4 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link5 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link6 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-link7 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-credits {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer-row {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.footer-container {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer-text10 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.footer-footer-links {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer-text11 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+  text-decoration: none;
+}
+ 
+.footer-text12 {
+  font-size: 18px;
+  font-family: "AvenirLTPro-Light";
+  text-decoration: none;
+}
+ 
+.terms-fragment20 {
+  display: contents;
+}
+ 
+.terms-text20 {
+  display: inline-block;
+}
+ 
+.terms-fragment17 {
+  display: contents;
+}
+ 
+.terms-text17 {
+  display: inline-block;
+}
+ 
+.terms-fragment18 {
+  display: contents;
+}
+ 
+.terms-text18 {
+  display: inline-block;
+}
+ 
+.terms-fragment22 {
+  display: contents;
+}
+ 
+.terms-text22 {
+  display: inline-block;
+}
+ 
+.terms-fragment21 {
+  display: contents;
+}
+ 
+.terms-text21 {
+  display: inline-block;
+}
+ 
+.terms-fragment24 {
+  display: contents;
+}
+ 
+.terms-text24 {
+  display: inline-block;
+}
+ 
+.terms-fragment25 {
+  display: contents;
+}
+ 
+.terms-text25 {
+  display: inline-block;
+}
+ 
+.terms-fragment23 {
+  display: contents;
+}
+ 
+.terms-text23 {
+  display: inline-block;
+}
+ 
+.terms-fragment19 {
+  display: contents;
+}
+ 
+.terms-text19 {
+  display: inline-block;
+}
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 767px) {
+  .footer-row {
+    gap: var(--dl-layout-space-oneandhalfunits);
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .footer-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .footer-links {
+    flex-direction: column;
+  }
+  .footer-footer-links {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+.terms-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+ 
+.terms-fragment10 {
+  display: contents;
+}
+ 
+.terms-text10 {
+  display: inline-block;
+}
+ 
+.terms-fragment11 {
+  display: contents;
+}
+ 
+.terms-text11 {
+  display: inline-block;
+}
+ 
+.terms-fragment12 {
+  display: contents;
+}
+ 
+.terms-text12 {
+  display: inline-block;
+}
+ 
+.terms-fragment13 {
+  display: contents;
+}
+ 
+.terms-text13 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "AvenirLTPro-Light";
+}
+ 
+.terms-fragment14 {
+  display: contents;
+}
+ 
+.terms-text14 {
+  display: inline-block;
+  font-size: 32px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms-fragment15 {
+  display: contents;
+}
+ 
+.terms-text15 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms-fragment16 {
+  display: contents;
+}
+ 
+.terms-text16 {
+  display: inline-block;
+  font-size: 28px;
+  font-family: "SegoeUIThis-Bold";
+}
+ 
+.terms-fragment17 {
+  display: contents;
+}
+ 
+.terms-text17 {
+  display: inline-block;
+}
+ 
+.terms-fragment18 {
+  display: contents;
+}
+ 
+.terms-text18 {
+  display: inline-block;
+}
+ 
+.terms-fragment19 {
+  display: contents;
+}
+ 
+.terms-text19 {
+  display: inline-block;
+}
+ 
+.terms-fragment20 {
+  display: contents;
+}
+ 
+.terms-text20 {
+  display: inline-block;
+}
+ 
+.terms-fragment21 {
+  display: contents;
+}
+ 
+.terms-text21 {
+  display: inline-block;
+}
+ 
+.terms-fragment22 {
+  display: contents;
+}
+ 
+.terms-text22 {
+  display: inline-block;
+}
+ 
+.terms-fragment23 {
+  display: contents;
+}
+ 
+.terms-text23 {
+  display: inline-block;
+}
+ 
+.terms-fragment24 {
+  display: contents;
+}
+ 
+.terms-text24 {
+  display: inline-block;
+}
+ 
+.terms-fragment25 {
+  display: contents;
+}
+ 
+.terms-text25 {
+  display: inline-block;
+}
+ 
+@media(max-width: 1600px) {
+  .terms-text13 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms-text14 {
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text15 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .terms-text10 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text11 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text12 {
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text13 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms-text14 {
+    color: var(--dl-color-theme-primary1);
+    font-size: 32px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text15 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .terms-text13 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms-text15 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+  .terms-text16 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .terms-text13 {
+    font-size: 28px;
+    font-family: AvenirLTPro-Light;
+  }
+  .terms-text15 {
+    font-size: 28px;
+    font-family: SegoeUIThis-Bold;
+  }
+}
