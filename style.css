@@ -211,6 +211,7 @@
     padding: var(--dl-layout-space-oneandhalfunits);
   }
   .thq-flex-column {
+    padding: var(--dl-layout-space-unit);
     gap: var(--dl-layout-space-unit);
   }
   .thq-flex-row {
