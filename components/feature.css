@@ -96,7 +96,7 @@
 @media(max-width: 1200px) {
   .feature-text11 {
     height: 322px;
-    margin-bottom: 1234px;
+    margin-bottom: 10px;
   }
   .feature-text12 {
     color: var(--dl-color-theme-primary1);
