@@ -640,10 +640,6 @@
   font-family: "AvenirLTPro-Light";
 }
  
-.feature-container3 {
-  max-width: 50%;
-}
- 
 .feature-image {
   width: 271px;
   height: 251px;
@@ -730,10 +726,6 @@
   }
   .feature-text11 {
     height: 266px;
-  }
-  .feature-container3 {
-    width: 100%;
-    max-width: 100%;
   }
 }
  
