@@ -686,7 +686,7 @@
  
 @media(max-width: 1600px) {
   .feature-text11 {
-    height: 252px;
+    height: 400px;
   }
   .home-text130 {
     color: var(--dl-color-theme-primary1);
@@ -714,7 +714,7 @@
 @media(max-width: 1200px) {
   .feature-text11 {
     height: auto;
-    margin-bottom: 100px;
+    margin-bottom: 800px;
   }
   .home-text130 {
     color: var(--dl-color-theme-primary1);
