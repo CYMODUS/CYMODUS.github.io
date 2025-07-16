@@ -627,8 +627,7 @@
 .feature-container2 {
   align-self: center;
   align-items: flex-start;
-  height: auto;
-  overflow-y: auto;
+  height: 300px;
 }
  
 .feature-text10 {
